@@ -2,7 +2,7 @@
 {application, chaos_monkey,
  [
   {description, "A Monkey that Spreads Chaos"},
-  {vsn, git},
+  {vsn, "0.0.1"},
   {modules,
    [chaos_monkey]},
   {registered, [chaos_monkey]},
